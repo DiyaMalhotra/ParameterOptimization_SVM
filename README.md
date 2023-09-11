@@ -35,8 +35,4 @@ Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
 The graph is made for the sample which has best accuracy. Sample 7 has the best accuracy of 0.93 having kernel = linear, Nu =7.91	 and Epsilon = 3.70.
 
-Written By
 
-Name : Diya Malhotra
-Roll No. : 102003427
-Sub-Group: 3Coe15
